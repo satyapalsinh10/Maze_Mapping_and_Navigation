@@ -1,0 +1,10 @@
+02-Dec-23 20:37:12 - INFO: player.py is using vis_nav_game 1.1.2
+02-Dec-23 20:37:13 - INFO: vis_nav_game.core version=1.1.2
+02-Dec-23 20:37:13 - INFO: Pass checking essential files
+02-Dec-23 20:37:13 - INFO: Verified /media/ashiq/ASHIQ HARD DISK/Ubuntu/vis_nav_player_1/data/maze.json
+02-Dec-23 20:37:13 - INFO: The file '/media/ashiq/ASHIQ HARD DISK/Ubuntu/vis_nav_player_1/data/maze.json' exists.
+02-Dec-23 20:37:13 - INFO: Start loading the map
+02-Dec-23 20:37:15 - INFO: Finished loading the map: takes 2.351086378097534 s
+02-Dec-23 20:37:17 - INFO: Target Images processing completed.
+02-Dec-23 20:39:03 - INFO: Saving the game, please wait...
+02-Dec-23 20:39:03 - INFO: Game saved successfully at /media/ashiq/ASHIQ HARD DISK/Ubuntu/vis_nav_player_1/data/save/game-20231202-203903.npy.
