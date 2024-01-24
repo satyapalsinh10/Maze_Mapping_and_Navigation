@@ -58,7 +58,7 @@ $ python player_astar_test.py
 - Use `W/A/S/D` to control the robot motion and explore the environment.
 
 <p align="center">
-  <img src="data/results/exploration.gif" alt="Undistorted" width="300"/>
+  <img src="data/results/exploration.gif" alt="Undistorted" width="350"/>
 </p>
 
 - Once the Exploration of the environment is finished press `Esc` key to initialize the SIFT similarity sequence.
